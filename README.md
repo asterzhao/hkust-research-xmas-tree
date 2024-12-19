@@ -6,7 +6,7 @@ This Christmas tree visualization is built using bibliometric records of over 5,
 
 Read this blog article to learn more: https://library.hkust.edu.hk/sc/where-hkust-research-meets-christmas-cheer
 
-
+<img src="https://library.hkust.edu.hk/sc/wp-content/uploads/sites/5/2024/12/christmas_tree_wordcloud_highres_indexkeywords.png" alt="HKUST Research Christmas Tree 2024" width="400">
 
 ## **Technical Details**
 
