@@ -11,14 +11,14 @@ Read this blog article to learn more: https://library.hkust.edu.hk/sc/where-hkus
 The word cloud was generated using Python with the following steps:
 
 1. **Data Preparation**:
-   - Bibliometric records were extracted from the Scopus database and saved into a CSV file (replace with your own file name).
-   - The “Index Keywords” column from the dataset was preprocessed to remove stop words.
+   - Bibliometric records were exported from the Scopus database and saved into a CSV file (replace with your own file name). Make sure “Index Keywords” column is selected. 
 
 2. **Word Cloud Creation**:
+   - The “Index Keywords” column from the dataset was processed to remove stop words.
    - A custom mask image of a Christmas tree (`christmas_tree.png`) was used to shape the word cloud.
    - The color palette includes festive red, green, and gold tones, applied using a custom color function.
 
-3. **Visualization**:
+4. **Visualization**:
    - The word cloud was generated using the `WordCloud` library and displayed with `Matplotlib`.
    - Final outputs were saved as high-resolution images for sharing and display.
 
