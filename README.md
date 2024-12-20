@@ -1,7 +1,5 @@
 # HKUST Research Christmas Tree 2024
 
-As the holiday season approaches, we hope to use a unique way to celebrate the incredible research achievements of HKUST in 2024 – turning our collective outputs into a festive Christmas tree!
-
 This Christmas tree visualization is built using bibliometric records of over 5,500 HKUST publications from the Scopus database in 2024. The tree highlights the most frequently used “Index Keywords”, showcasing key research areas and achievements of the year. 
 
 Read this blog article to learn more: https://library.hkust.edu.hk/sc/where-hkust-research-meets-christmas-cheer
